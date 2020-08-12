@@ -42,10 +42,9 @@ The data set describes homes With 79 explanatory variables describing (almost) e
 
 
 ## Testing
+Rsquared and RMSE
 ## Conclusion
-Based on the results that were analyzed, the following recommendations can be made:
-* Inflight Wifi, Entertainment, Food & Drink services and Leg Room space are very impactful on customer satisfaction.
-* Customers prefer high speed WiFi internet connections. Overall it appeared that customers would rather not have wifi than have  slow WiFi speed.
+
 
 ## Presentation Link:
 https://docs.google.com/presentation/d/1-GKvWRApTPEAVIxo0dNgPHWWjxHDjR8gD_uSmkumfg4/edit?usp=sharing
