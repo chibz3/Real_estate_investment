@@ -42,11 +42,13 @@ The data set describes homes With 79 explanatory variables describing (almost) e
 
 
 ## Testing
-Rsquared and RMSE
+Rsquared and RMSE/RMSLE
 ## Conclusion
 
 
 ## Presentation Link:
+https://docs.google.com/presentation/d/1YtVQsDKsDYCYUt-6otzIQGJ_lTj4l3Fyll-rSznS3vw/edit?usp=sharing
 
 ## Visual:
+The ranking of features according to its importance  in the lasso model
 ![Image](feat_impotance.png)
