@@ -51,4 +51,4 @@ https://docs.google.com/presentation/d/1YtVQsDKsDYCYUt-6otzIQGJ_lTj4l3Fyll-rSznS
 
 ## Visual:
 The ranking of features according to its importance  in the lasso model
-![Image](\data\feat_impotance.png)
+![Image](feat_impotance.png)
