@@ -47,6 +47,6 @@ Rsquared and RMSE
 
 
 ## Presentation Link:
-https://docs.google.com/presentation/d/1-GKvWRApTPEAVIxo0dNgPHWWjxHDjR8gD_uSmkumfg4/edit?usp=sharing
+
 ## Visual:
-![alt text](https://github.com/J-Joseph524/JJ_KH_Flight_Satisfaction/blob/master/Pie_Chart.png)
+![Image](feat_impotance.png)
