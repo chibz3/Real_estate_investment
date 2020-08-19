@@ -44,7 +44,7 @@ The data set describes homes With 79 explanatory variables describing (almost) e
 ## Testing
 Rsquared and RMSE/RMSLE
 ## Conclusion
-
+With the XGBR model, an investor can  predict property values at a +/- 12% error margin. As long as the property is  bought below this margin, an investor stands to make a profit and can determine whether or not it’ll be a good investment
 
 ## Presentation Link:
 https://docs.google.com/presentation/d/1YtVQsDKsDYCYUt-6otzIQGJ_lTj4l3Fyll-rSznS3vw/edit?usp=sharing
