@@ -37,8 +37,8 @@ The data set describes homes With 79 explanatory variables describing (almost) e
 * Demonstrate effective tactics for feature engineering
 * Includes simplifying and combining existing features
 * Explore linear regression with different regularization methods including ridge, LASSO, and ElasticNet using scikit-learn
-### Regularized Linear Models
-* Build a basic linear model
+### Models
+![Image](results.png)
 
 
 ## Testing
