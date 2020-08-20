@@ -38,7 +38,7 @@ The data set describes homes With 79 explanatory variables describing (almost) e
 * Includes simplifying and combining existing features
 * Explore linear regression with different regularization methods including ridge, LASSO, and ElasticNet using scikit-learn
 ### Models
-![Image](results.png)
+![Image](results1.png)
 
 
 ## Testing
